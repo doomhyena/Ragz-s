@@ -49,9 +49,6 @@ projekt_konyvtar/
 │-- nevek.txt
 ```
 
-## Szerző
-[Csontos Kincső]
-
 ## Licenc
 Ez a projekt nyílt forráskódú és szabadon felhasználható.
 
